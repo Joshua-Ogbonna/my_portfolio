@@ -23,10 +23,10 @@ function Projects() {
               to provide live tracking of coronavirus cases around the world.
               Built with Reactjs.
             </p>
-            <a href="https://github.com/Joshua-Ogbonna/covid_tracker" target="_blank">
+            <a href="https://github.com/Joshua-Ogbonna/covid_tracker">
               <Button>Github</Button>
             </a>
-            <a href="https://covid-tracker-red.vercel.app/" target="_blank">
+            <a href="https://covid-tracker-red.vercel.app/">
               <Button>Link</Button>
             </a>
           </div>
@@ -41,7 +41,7 @@ function Projects() {
               in progress. React, Firebase, and Redux
             </p>
             <Button>Github</Button>
-            <a href="https://linkedin-1f443.firebaseapp.com/" target="_blank">
+            <a href="https://linkedin-1f443.firebaseapp.com/">
               <Button>Link</Button>
             </a>
           </div>
@@ -54,10 +54,10 @@ function Projects() {
               Netflix clone built with Reactjs. Data was gotten using the TMDB
               API
             </p>
-            <a href="https://github.com/Joshua-Ogbonna/reactflix" target="_blank">
+            <a href="https://github.com/Joshua-Ogbonna/reactflix">
               <Button>Github</Button>
             </a>
-            <a href="https://reactflix-blush-rho.vercel.app/" target="_blank">
+            <a href="https://reactflix-blush-rho.vercel.app/">
               <Button>Link</Button>
             </a>
           </div>
@@ -70,10 +70,10 @@ function Projects() {
               A fullstack note taking application with authentication built with
               the MEVN stack.
             </p>
-            <a href="https://github.com/Joshua-Ogbonna/iThink" target="_blank">
+            <a href="https://github.com/Joshua-Ogbonna/iThink">
               <Button>Github</Button>
             </a>
-            <a href="https://i-think.vercel.app" target="_blank">
+            <a href="https://i-think.vercel.app">
               <Button>Link</Button>
             </a>
           </div>
@@ -87,10 +87,10 @@ function Projects() {
               handled with firebase. Student admission, results checking, and
               transcript applications.
             </p>
-            <a href="https://github.com/Joshua-Ogbonna/Brightstars" target="_blank">
+            <a href="https://github.com/Joshua-Ogbonna/Brightstars">
               <Button>Github</Button>
             </a>
-            <a href="https://mcbrightstars.com" target="_blank">
+            <a href="https://mcbrightstars.com">
               <Button>Link</Button>
             </a>
           </div>

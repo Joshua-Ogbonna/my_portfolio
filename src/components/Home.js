@@ -19,19 +19,19 @@ function Home() {
         Hi, it's Joshua Ogbonna, I am a frontend web developer from Nigeria.
       </p>
       <div className="social__media">
-        <a href="https://twitter.com/nedujs" target="_blank">
+        <a href="https://twitter.com/nedujs">
           <TwitterIcon className="link__item" />
         </a>
-        <a href="https://linkedin.com/devjaykes" target="_blank">
+        <a href="https://linkedin.com/devjaykes">
           <LinkedInIcon className="link__item" />
         </a>
-        <a href="https://devjaykes.vercel.app" target="_blank">
+        <a href="https://devjaykes.vercel.app">
           <Link className="link__item" />
         </a>
-        <a href="https://github.com/devjaykes" target="_blank">
+        <a href="https://github.com/devjaykes">
           <GithubIcon className="link__item" />
         </a>
-        <a href="mailto:ogbchinedu9@gmail.com" target="_blank">
+        <a href="mailto:ogbchinedu9@gmail.com">
           <GmailIcon className="link__item" />
         </a>
       </div>
