@@ -33,7 +33,12 @@ const Navbar = () => {
                 </Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="https://devjourney.hashnode.dev/" target="_blank">
+                <a
+                  className="nav-link"
+                  href="https://devjourney.hashnode.dev/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   blog
                 </a>
               </li>

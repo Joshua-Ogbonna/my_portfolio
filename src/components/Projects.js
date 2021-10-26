@@ -15,9 +15,9 @@ function Projects() {
             end of each task, keep track of finished and unfinished tasks, allow
             users to take notes, and store their notes in folders on the app.
           </p>
-          <marquee behavior="" direction="">
+          
             <span>...work in progress</span>
-          </marquee>
+          
           <div className="technologies">
             <span>React, React-Redux, AWS Amplify, GraphQL</span>
           </div>
@@ -25,12 +25,14 @@ function Projects() {
             <a
               href="https://github.com/Joshua-Ogbonna/productive"
               target="_blank"
+              rel="noopener noreferrer"
             >
               Github
             </a>
             <a
               href="https://hackproductive.vercel.app/"
               target="_blank"
+              rel="noopener noreferrer"
               className="ms-5"
             >
               Website

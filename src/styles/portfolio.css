@@ -74,7 +74,7 @@
     font-size: 20px;
     margin: 20px 0 0px;
 }
-.projects .card marquee {
+.projects .card span {
     margin: 20px 20px;
     color: grey;
 }
